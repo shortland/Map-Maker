@@ -1,0 +1,5 @@
+﻿I've already written a large chunk of code in Java which maps a 2d array (map) and gets the values at certain coordinates & was currently in process of implementing some type of probability function which'd decide that tiles properties based off of surrounding tile properties.
+
+Kinda had some logical flaws in it... And I decided it wouldn't be the best approach to doing map generation.
+
+On stackoverflow someone suggested to someone else that they "Act like nature", in which we start with 1 big continent and then break that piece apart into smaller continents... I think I like this approach the most, but putting it into code will be a bit of a challenge... 
